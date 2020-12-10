@@ -1,5 +1,3 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bamsunbic&count_private=true)
-
 ### 👏 Hello World!
 
 I'm Sangwon Lee, an 2+ year software developer, blogger. 

@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeon0221su&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bamsunbic)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hello World!
 

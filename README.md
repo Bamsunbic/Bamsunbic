@@ -2,7 +2,7 @@
 
 <p>I'm Sangwon Lee, an 2+ year software developer, blogger.</p>
 
-<br/>
+
 ### ✔ What I Use
 <p>
      <a href="#">

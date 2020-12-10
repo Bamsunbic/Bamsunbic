@@ -16,6 +16,9 @@ I'm Sangwon Lee, an 2+ year software developer, blogger.
     <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
     </a>
+     <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px"> 
+    </a>
       <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px"> 
     </a>

@@ -1,8 +1,8 @@
-### 👏 Hello World!
+## 👏 Hello World!
 
 I'm Sangwon Lee, an 2+ year software developer, blogger. 
 
-### What I Use
+## What I Use
 <p>
      <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px"> 

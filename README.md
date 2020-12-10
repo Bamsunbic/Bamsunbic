@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bamsunbic)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hello World!
+### 👏 Hello World!
 
 I'm Sangwon Lee, an 2+ year software developer, blogger. 
 

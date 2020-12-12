@@ -23,7 +23,4 @@
     <a href="#">
      <img src="https://github.com/Bamsunbic/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px"> 
     </a>
-    <a href="#">
-     <img src="https://github.com/Bamsunbic/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px"> 
-    </a>
 </p>

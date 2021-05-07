@@ -1,6 +1,6 @@
 ### 👏 Hello World!
 
-<p>I'm Sangwon Lee, an 2+ year software developer, blogger.</p>
+<p>I'm Sangwon Lee, an 3+ year software developer, blogger.</p>
 
 
 ### 💖 What I Use
